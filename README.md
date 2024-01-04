@@ -7,8 +7,8 @@ The directions in which the rat can move are ‘U'(up), ‘D'(down), ‘L’ (le
 
 Value 0 at a cell in the matrix represents that it is blocked and the rat cannot move to it while value 1 at a cell in the matrix represents that rat can travel through it.
 In a path, no cell can be visited more than one time.
-![image](https://github.com/M2rider/Rat-in-a-Maze/assets/129592380/f7a7052a-b3b6-4111-bf79-66e5454d00e0)
 
+![image](https://github.com/M2rider/Rat-in-a-Maze/assets/129592380/f7a7052a-b3b6-4111-bf79-66e5454d00e0)
 I solved this problem using Backtracking.
 
 Approach:
